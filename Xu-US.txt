@@ -1,0 +1,5 @@
+As a player, I want to be able to view the recurring cash flows (incomes and expenses) of my lemonade business on one page, so that I can easily see how well my business is doing [8 hours]
+
+As a player, I want to advertise my lemonade stands, so that I can sell more lemonade
+
+As a player, I want my lemon-related business in the game to be able to run in the background while the phone is locked so that I don't have to dedicate significant chunks of time toward the game [2 hours]

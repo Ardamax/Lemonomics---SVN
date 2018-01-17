@@ -1,0 +1,3 @@
+The game shall provide a low power mode that uses minimal energy
+The game shall provide a colorblind mode with non-green and non-red colors
+The game shall provide a night mode with darker colors
