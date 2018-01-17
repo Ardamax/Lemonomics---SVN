@@ -1,0 +1,7 @@
+Functional Requirements:
+
+1) The system shall generate a taste profile at the start of each game.
+
+2) The system shall provide a map with simulated traffic and weather events.
+
+3) The system shall adjust taste profiles and traffic to in-game events.

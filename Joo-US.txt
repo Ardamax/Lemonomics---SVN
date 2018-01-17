@@ -1,0 +1,7 @@
+User Stories:
+
+1) As a player, I want to be able to buy/rent new locations, so that I can open new location.
+
+2) As a player, I want to choose my pricing, so that I can draw in customers and adjust profits.
+
+3) As a player, I want to be able to change ratios of the lemonade recipe so that I can create the best lemonade for the environment.
