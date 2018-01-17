@@ -1,0 +1,3 @@
+#8 Simulated Traffic: As a player, I want there to be simulated traffic so that there is variance in gameplay
+#2 In-Game Weather: As a player, I want to be able to know the in-game weather, so that I can adjust my lemonade recipe accordingly
+#1 Business Size: As a player, I want to be able to expand my business’s size so that I may have more employees and larger customer capacity

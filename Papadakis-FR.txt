@@ -1,0 +1,3 @@
+#33 Lemonade Demand: The game shall show the user the demand for their lemonade products.
+#27 Taste: The system shall generate a taste profile at the start of each game.
+#26 Map: The system shall provide a map with simulated traffic and weather events.
