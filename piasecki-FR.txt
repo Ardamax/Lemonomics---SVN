@@ -1,0 +1,8 @@
+Functional Req't: Ledger
+The game shall provide a ledger to the user for business analysis.
+
+Functional Req't: Recipe
+The game shall allow the users to adjust the ratio of ingredients (lemon, sugar, water, ice) in the lemonade recipe.
+
+Functional Req't: Prices
+The game shall allow the user to adjust the sale price of lemonade.

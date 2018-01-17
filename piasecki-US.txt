@@ -1,0 +1,8 @@
+User Story: Business Size
+As a player, I want to be able to expand my business’s size so that I may have more employees and larger customer capacity [40 hours]
+
+User Story: In-Game Weather
+As a player, I want to be able to know the in-game weather, so that I can adjust my lemonade recipe accordingly [5 hours]
+
+User Story: Population Tastes
+As a player, I want the tastes of the population to change so I feel involved in fine tuning my recipe
